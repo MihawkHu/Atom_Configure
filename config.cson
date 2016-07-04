@@ -1,0 +1,29 @@
+"*":
+  "atom-material-ui":
+    tabs: {}
+    treeView:
+      compactList: true
+    ui: {}
+  core:
+    disabledPackages: [
+      "activate-power-mode"
+      "whitespace"
+      "terminal-plus"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
+  editor:
+    fontSize: 16
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "58c8da10-2b4c-9ea6-9b3d-8ddb00cf19f9"
+  "one-dark-ui":
+    layoutMode: "Compact"
+  welcome:
+    showOnStartup: false
